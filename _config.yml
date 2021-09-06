@@ -33,4 +33,5 @@ html:
 # Launch button settings
 launch_buttons:
   binderhub_url: ""
-  jupyterhub_url: "https://colab.research.google.com"
+  colab_url: "https://colab.research.google.com"
+  
